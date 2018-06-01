@@ -1,0 +1,41 @@
+
+
+
+
+
+
+
+
+
+
+/* Footer */
+#footer-wrap {
+
+ 
+
+  
+ 
+	width: 1200px;
+	height: 40px;
+	margin: 0 auto;
+	background:#101010;
+}
+
+#footer {
+
+	margin: 0 auto;
+	height: 64px;
+	min-height: 64px;
+	padding: 0;
+}
+
+html>body #footer {
+	
+	height: auto;
+
+}
+
+#footer p {
+	
+}
+
